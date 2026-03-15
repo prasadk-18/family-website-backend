@@ -34,5 +34,4 @@ target/
 build/
 
 # Local Spring Boot config (sensitive info)
-application.properties
 .env
